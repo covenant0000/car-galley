@@ -9,4 +9,5 @@
 // console.log(JsonString)
 // localStorage.setItem('user',  JSON.stringify(users))
 
-const user = JSON.parse()
+localStorage.getItem('user')
+localStorage.removeItem('user')

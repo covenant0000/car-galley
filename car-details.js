@@ -8,4 +8,5 @@ carDetailsContainer.innerHTML = `
 <div class = "car-info">
 <h1>${selectedCar.name}</h1>
 <h3>${selectedCar.model}</h3>
+</div>
 `
